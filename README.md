@@ -1,5 +1,5 @@
 #steps to host dynamic website using 'LAMP techstack'
-
+Github Repo https://github.com/sngouda/carrental-php
 1. Clone the project from GitHub repo 
 	> git clone "https://github.com/sangeethaSam17/php-project.git"
 
