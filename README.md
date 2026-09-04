@@ -39,4 +39,4 @@ path: ./php-project/carrental/includes/config.php
 
 
 9. Open the browser and provide the url to access app
-"http://localhost/index.php"
+"http://localhost:4444/index.php"
